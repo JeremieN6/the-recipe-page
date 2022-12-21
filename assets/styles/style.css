@@ -158,7 +158,7 @@ li::marker{
     background: var(--second-color);
     width: 10%;
     height: 10%;
-    /* border-radius: 6px;  */
+    border-radius: 6px;
 }
 .source{
     font-family: 'Montserrat';
